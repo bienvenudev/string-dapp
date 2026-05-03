@@ -1,4 +1,4 @@
-# string-dapp
+# Blockchain String Saver | Dapp
 
 A small Ethereum DApp for saving and retrieving a string on the Sepolia testnet.
 
